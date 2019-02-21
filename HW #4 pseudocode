@@ -1,0 +1,22 @@
+#Pseudocode for algorithm that reads a file of numbers and calculates whether or not those numbers are armstrong numbers
+#Noam Benkler
+#1/27/18
+
+
+Values:
+	Numbers
+	Digits in number (if number is n digits long (x1, x2, x3,..., xn)
+	length of the number
+
+Functions
+	Digit to the number of digits in the whole string
+	Digit^length + Digit^length....
+	Is digit^length + digit^length... equal to origional number
+
+Pseudocode
+	1. read list of numbers
+	2. take the next number
+	3. take every digit of the number to the length of the number
+	4. add every digit together
+	5. if every digit of the number to the length of the number = the number print "_____ is an armstrong number." and continue
+	5. else go back to step 2
