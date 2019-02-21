@@ -1,1 +1,1 @@
-# Coursework For CS110 Introduction to Computer Science
+# Coursework For CS 110: Introduction to Computer Science
